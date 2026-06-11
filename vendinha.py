@@ -1,4 +1,5 @@
-#quando for colocar as frutas coloca elas uma por uma pliss
+#quando for colocar as frutas coloca elas uma por uma pliss#
+#Amanda da Silva Santos#
 
 maca = 3.50
 banana = 2.20
