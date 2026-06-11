@@ -1,3 +1,5 @@
+/*Amanda da Silva Santos*/
+
 create table Produtos (
     Id_produto int primary key,
     Nome_produto varchar(50),
